@@ -1,0 +1,218 @@
+[
+  {
+    "rectangle": {
+      "low": {
+        "latitude": 16.4454752,
+        "longitude": -92.4897046
+      },
+      "high": {
+        "latitude": 16.48083405,
+        "longitude": -92.45339314
+      }
+    }
+  },
+  {
+    "rectangle": {
+      "low": {
+        "latitude": 16.48083405,
+        "longitude": -92.4897046
+      },
+      "high": {
+        "latitude": 16.5161929,
+        "longitude": -92.45339314
+      }
+    }
+  },
+  {
+    "rectangle": {
+      "low": {
+        "latitude": 16.5161929,
+        "longitude": -92.4897046
+      },
+      "high": {
+        "latitude": 16.55155175,
+        "longitude": -92.45339314
+      }
+    }
+  },
+  {
+    "rectangle": {
+      "low": {
+        "latitude": 16.4454752,
+        "longitude": -92.45339314
+      },
+      "high": {
+        "latitude": 16.48083405,
+        "longitude": -92.41708168
+      }
+    }
+  },
+  {
+    "rectangle": {
+      "low": {
+        "latitude": 16.48083405,
+        "longitude": -92.45339314
+      },
+      "high": {
+        "latitude": 16.5161929,
+        "longitude": -92.41708168
+      }
+    }
+  },
+  {
+    "rectangle": {
+      "low": {
+        "latitude": 16.5161929,
+        "longitude": -92.45339314
+      },
+      "high": {
+        "latitude": 16.55155175,
+        "longitude": -92.41708168
+      }
+    }
+  },
+  {
+    "rectangle": {
+      "low": {
+        "latitude": 16.55155175,
+        "longitude": -92.45339314
+      },
+      "high": {
+        "latitude": 16.5869106,
+        "longitude": -92.41708168
+      }
+    }
+  },
+  {
+    "rectangle": {
+      "low": {
+        "latitude": 16.48083405,
+        "longitude": -92.41708168
+      },
+      "high": {
+        "latitude": 16.5161929,
+        "longitude": -92.38077022
+      }
+    }
+  },
+  {
+    "rectangle": {
+      "low": {
+        "latitude": 16.5161929,
+        "longitude": -92.41708168
+      },
+      "high": {
+        "latitude": 16.55155175,
+        "longitude": -92.38077022
+      }
+    }
+  },
+  {
+    "rectangle": {
+      "low": {
+        "latitude": 16.55155175,
+        "longitude": -92.41708168
+      },
+      "high": {
+        "latitude": 16.5869106,
+        "longitude": -92.38077022
+      }
+    }
+  },
+  {
+    "rectangle": {
+      "low": {
+        "latitude": 16.4454752,
+        "longitude": -92.38077022
+      },
+      "high": {
+        "latitude": 16.48083405,
+        "longitude": -92.34445876
+      }
+    }
+  },
+  {
+    "rectangle": {
+      "low": {
+        "latitude": 16.48083405,
+        "longitude": -92.38077022
+      },
+      "high": {
+        "latitude": 16.5161929,
+        "longitude": -92.34445876
+      }
+    }
+  },
+  {
+    "rectangle": {
+      "low": {
+        "latitude": 16.5161929,
+        "longitude": -92.38077022
+      },
+      "high": {
+        "latitude": 16.55155175,
+        "longitude": -92.34445876
+      }
+    }
+  },
+  {
+    "rectangle": {
+      "low": {
+        "latitude": 16.55155175,
+        "longitude": -92.38077022
+      },
+      "high": {
+        "latitude": 16.5869106,
+        "longitude": -92.34445876
+      }
+    }
+  },
+  {
+    "rectangle": {
+      "low": {
+        "latitude": 16.4454752,
+        "longitude": -92.34445876
+      },
+      "high": {
+        "latitude": 16.48083405,
+        "longitude": -92.3081473
+      }
+    }
+  },
+  {
+    "rectangle": {
+      "low": {
+        "latitude": 16.48083405,
+        "longitude": -92.34445876
+      },
+      "high": {
+        "latitude": 16.5161929,
+        "longitude": -92.3081473
+      }
+    }
+  },
+  {
+    "rectangle": {
+      "low": {
+        "latitude": 16.5161929,
+        "longitude": -92.34445876
+      },
+      "high": {
+        "latitude": 16.55155175,
+        "longitude": -92.3081473
+      }
+    }
+  },
+  {
+    "rectangle": {
+      "low": {
+        "latitude": 16.55155175,
+        "longitude": -92.34445876
+      },
+      "high": {
+        "latitude": 16.5869106,
+        "longitude": -92.3081473
+      }
+    }
+  }
+]

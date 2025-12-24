@@ -1,0 +1,26 @@
+[
+  {
+    "rectangle": {
+      "low": {
+        "latitude": 32.5472999,
+        "longitude": -116.6617402
+      },
+      "high": {
+        "latitude": 32.5792081,
+        "longitude": -116.62667875
+      }
+    }
+  },
+  {
+    "rectangle": {
+      "low": {
+        "latitude": 32.5472999,
+        "longitude": -116.62667875
+      },
+      "high": {
+        "latitude": 32.5792081,
+        "longitude": -116.5916173
+      }
+    }
+  }
+]
