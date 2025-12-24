@@ -1,0 +1,602 @@
+[
+  {
+    "rectangle": {
+      "low": {
+        "latitude": 19.975925,
+        "longitude": -100.0770089
+      },
+      "high": {
+        "latitude": 20.0097768,
+        "longitude": -100.03928922
+      }
+    }
+  },
+  {
+    "rectangle": {
+      "low": {
+        "latitude": 20.0097768,
+        "longitude": -100.0770089
+      },
+      "high": {
+        "latitude": 20.043628599999998,
+        "longitude": -100.03928922
+      }
+    }
+  },
+  {
+    "rectangle": {
+      "low": {
+        "latitude": 19.975925,
+        "longitude": -100.03928922
+      },
+      "high": {
+        "latitude": 20.0097768,
+        "longitude": -100.00156953999999
+      }
+    }
+  },
+  {
+    "rectangle": {
+      "low": {
+        "latitude": 20.0097768,
+        "longitude": -100.03928922
+      },
+      "high": {
+        "latitude": 20.043628599999998,
+        "longitude": -100.00156953999999
+      }
+    }
+  },
+  {
+    "rectangle": {
+      "low": {
+        "latitude": 20.043628599999998,
+        "longitude": -100.03928922
+      },
+      "high": {
+        "latitude": 20.0774804,
+        "longitude": -100.00156953999999
+      }
+    }
+  },
+  {
+    "rectangle": {
+      "low": {
+        "latitude": 19.9082214,
+        "longitude": -100.00156953999999
+      },
+      "high": {
+        "latitude": 19.9420732,
+        "longitude": -99.96384986
+      }
+    }
+  },
+  {
+    "rectangle": {
+      "low": {
+        "latitude": 19.9420732,
+        "longitude": -100.00156953999999
+      },
+      "high": {
+        "latitude": 19.975925,
+        "longitude": -99.96384986
+      }
+    }
+  },
+  {
+    "rectangle": {
+      "low": {
+        "latitude": 19.975925,
+        "longitude": -100.00156953999999
+      },
+      "high": {
+        "latitude": 20.0097768,
+        "longitude": -99.96384986
+      }
+    }
+  },
+  {
+    "rectangle": {
+      "low": {
+        "latitude": 20.0097768,
+        "longitude": -100.00156953999999
+      },
+      "high": {
+        "latitude": 20.043628599999998,
+        "longitude": -99.96384986
+      }
+    }
+  },
+  {
+    "rectangle": {
+      "low": {
+        "latitude": 20.043628599999998,
+        "longitude": -100.00156953999999
+      },
+      "high": {
+        "latitude": 20.0774804,
+        "longitude": -99.96384986
+      }
+    }
+  },
+  {
+    "rectangle": {
+      "low": {
+        "latitude": 19.8743696,
+        "longitude": -99.96384986
+      },
+      "high": {
+        "latitude": 19.9082214,
+        "longitude": -99.92613018
+      }
+    }
+  },
+  {
+    "rectangle": {
+      "low": {
+        "latitude": 19.9082214,
+        "longitude": -99.96384986
+      },
+      "high": {
+        "latitude": 19.9420732,
+        "longitude": -99.92613018
+      }
+    }
+  },
+  {
+    "rectangle": {
+      "low": {
+        "latitude": 19.9420732,
+        "longitude": -99.96384986
+      },
+      "high": {
+        "latitude": 19.975925,
+        "longitude": -99.92613018
+      }
+    }
+  },
+  {
+    "rectangle": {
+      "low": {
+        "latitude": 19.975925,
+        "longitude": -99.96384986
+      },
+      "high": {
+        "latitude": 20.0097768,
+        "longitude": -99.92613018
+      }
+    }
+  },
+  {
+    "rectangle": {
+      "low": {
+        "latitude": 20.0097768,
+        "longitude": -99.96384986
+      },
+      "high": {
+        "latitude": 20.043628599999998,
+        "longitude": -99.92613018
+      }
+    }
+  },
+  {
+    "rectangle": {
+      "low": {
+        "latitude": 20.043628599999998,
+        "longitude": -99.96384986
+      },
+      "high": {
+        "latitude": 20.0774804,
+        "longitude": -99.92613018
+      }
+    }
+  },
+  {
+    "rectangle": {
+      "low": {
+        "latitude": 19.8743696,
+        "longitude": -99.92613018
+      },
+      "high": {
+        "latitude": 19.9082214,
+        "longitude": -99.88841049999999
+      }
+    }
+  },
+  {
+    "rectangle": {
+      "low": {
+        "latitude": 19.9082214,
+        "longitude": -99.92613018
+      },
+      "high": {
+        "latitude": 19.9420732,
+        "longitude": -99.88841049999999
+      }
+    }
+  },
+  {
+    "rectangle": {
+      "low": {
+        "latitude": 19.9420732,
+        "longitude": -99.92613018
+      },
+      "high": {
+        "latitude": 19.975925,
+        "longitude": -99.88841049999999
+      }
+    }
+  },
+  {
+    "rectangle": {
+      "low": {
+        "latitude": 19.975925,
+        "longitude": -99.92613018
+      },
+      "high": {
+        "latitude": 20.0097768,
+        "longitude": -99.88841049999999
+      }
+    }
+  },
+  {
+    "rectangle": {
+      "low": {
+        "latitude": 20.0097768,
+        "longitude": -99.92613018
+      },
+      "high": {
+        "latitude": 20.043628599999998,
+        "longitude": -99.88841049999999
+      }
+    }
+  },
+  {
+    "rectangle": {
+      "low": {
+        "latitude": 20.043628599999998,
+        "longitude": -99.92613018
+      },
+      "high": {
+        "latitude": 20.0774804,
+        "longitude": -99.88841049999999
+      }
+    }
+  },
+  {
+    "rectangle": {
+      "low": {
+        "latitude": 19.8743696,
+        "longitude": -99.88841049999999
+      },
+      "high": {
+        "latitude": 19.9082214,
+        "longitude": -99.85069082
+      }
+    }
+  },
+  {
+    "rectangle": {
+      "low": {
+        "latitude": 19.9082214,
+        "longitude": -99.88841049999999
+      },
+      "high": {
+        "latitude": 19.9420732,
+        "longitude": -99.85069082
+      }
+    }
+  },
+  {
+    "rectangle": {
+      "low": {
+        "latitude": 19.9420732,
+        "longitude": -99.88841049999999
+      },
+      "high": {
+        "latitude": 19.975925,
+        "longitude": -99.85069082
+      }
+    }
+  },
+  {
+    "rectangle": {
+      "low": {
+        "latitude": 19.975925,
+        "longitude": -99.88841049999999
+      },
+      "high": {
+        "latitude": 20.0097768,
+        "longitude": -99.85069082
+      }
+    }
+  },
+  {
+    "rectangle": {
+      "low": {
+        "latitude": 20.0097768,
+        "longitude": -99.88841049999999
+      },
+      "high": {
+        "latitude": 20.043628599999998,
+        "longitude": -99.85069082
+      }
+    }
+  },
+  {
+    "rectangle": {
+      "low": {
+        "latitude": 19.8405178,
+        "longitude": -99.85069082
+      },
+      "high": {
+        "latitude": 19.8743696,
+        "longitude": -99.81297114
+      }
+    }
+  },
+  {
+    "rectangle": {
+      "low": {
+        "latitude": 19.8743696,
+        "longitude": -99.85069082
+      },
+      "high": {
+        "latitude": 19.9082214,
+        "longitude": -99.81297114
+      }
+    }
+  },
+  {
+    "rectangle": {
+      "low": {
+        "latitude": 19.9082214,
+        "longitude": -99.85069082
+      },
+      "high": {
+        "latitude": 19.9420732,
+        "longitude": -99.81297114
+      }
+    }
+  },
+  {
+    "rectangle": {
+      "low": {
+        "latitude": 19.9420732,
+        "longitude": -99.85069082
+      },
+      "high": {
+        "latitude": 19.975925,
+        "longitude": -99.81297114
+      }
+    }
+  },
+  {
+    "rectangle": {
+      "low": {
+        "latitude": 19.975925,
+        "longitude": -99.85069082
+      },
+      "high": {
+        "latitude": 20.0097768,
+        "longitude": -99.81297114
+      }
+    }
+  },
+  {
+    "rectangle": {
+      "low": {
+        "latitude": 20.0097768,
+        "longitude": -99.85069082
+      },
+      "high": {
+        "latitude": 20.043628599999998,
+        "longitude": -99.81297114
+      }
+    }
+  },
+  {
+    "rectangle": {
+      "low": {
+        "latitude": 20.043628599999998,
+        "longitude": -99.85069082
+      },
+      "high": {
+        "latitude": 20.0774804,
+        "longitude": -99.81297114
+      }
+    }
+  },
+  {
+    "rectangle": {
+      "low": {
+        "latitude": 19.8405178,
+        "longitude": -99.81297114
+      },
+      "high": {
+        "latitude": 19.8743696,
+        "longitude": -99.77525146
+      }
+    }
+  },
+  {
+    "rectangle": {
+      "low": {
+        "latitude": 19.8743696,
+        "longitude": -99.81297114
+      },
+      "high": {
+        "latitude": 19.9082214,
+        "longitude": -99.77525146
+      }
+    }
+  },
+  {
+    "rectangle": {
+      "low": {
+        "latitude": 19.9082214,
+        "longitude": -99.81297114
+      },
+      "high": {
+        "latitude": 19.9420732,
+        "longitude": -99.77525146
+      }
+    }
+  },
+  {
+    "rectangle": {
+      "low": {
+        "latitude": 19.9420732,
+        "longitude": -99.81297114
+      },
+      "high": {
+        "latitude": 19.975925,
+        "longitude": -99.77525146
+      }
+    }
+  },
+  {
+    "rectangle": {
+      "low": {
+        "latitude": 19.975925,
+        "longitude": -99.81297114
+      },
+      "high": {
+        "latitude": 20.0097768,
+        "longitude": -99.77525146
+      }
+    }
+  },
+  {
+    "rectangle": {
+      "low": {
+        "latitude": 20.0097768,
+        "longitude": -99.81297114
+      },
+      "high": {
+        "latitude": 20.043628599999998,
+        "longitude": -99.77525146
+      }
+    }
+  },
+  {
+    "rectangle": {
+      "low": {
+        "latitude": 20.043628599999998,
+        "longitude": -99.81297114
+      },
+      "high": {
+        "latitude": 20.0774804,
+        "longitude": -99.77525146
+      }
+    }
+  },
+  {
+    "rectangle": {
+      "low": {
+        "latitude": 19.8405178,
+        "longitude": -99.77525146
+      },
+      "high": {
+        "latitude": 19.8743696,
+        "longitude": -99.73753178
+      }
+    }
+  },
+  {
+    "rectangle": {
+      "low": {
+        "latitude": 19.8743696,
+        "longitude": -99.77525146
+      },
+      "high": {
+        "latitude": 19.9082214,
+        "longitude": -99.73753178
+      }
+    }
+  },
+  {
+    "rectangle": {
+      "low": {
+        "latitude": 19.9082214,
+        "longitude": -99.77525146
+      },
+      "high": {
+        "latitude": 19.9420732,
+        "longitude": -99.73753178
+      }
+    }
+  },
+  {
+    "rectangle": {
+      "low": {
+        "latitude": 19.9420732,
+        "longitude": -99.77525146
+      },
+      "high": {
+        "latitude": 19.975925,
+        "longitude": -99.73753178
+      }
+    }
+  },
+  {
+    "rectangle": {
+      "low": {
+        "latitude": 19.975925,
+        "longitude": -99.77525146
+      },
+      "high": {
+        "latitude": 20.0097768,
+        "longitude": -99.73753178
+      }
+    }
+  },
+  {
+    "rectangle": {
+      "low": {
+        "latitude": 20.0097768,
+        "longitude": -99.77525146
+      },
+      "high": {
+        "latitude": 20.043628599999998,
+        "longitude": -99.73753178
+      }
+    }
+  },
+  {
+    "rectangle": {
+      "low": {
+        "latitude": 19.9420732,
+        "longitude": -99.73753178
+      },
+      "high": {
+        "latitude": 19.975925,
+        "longitude": -99.6998121
+      }
+    }
+  },
+  {
+    "rectangle": {
+      "low": {
+        "latitude": 19.975925,
+        "longitude": -99.73753178
+      },
+      "high": {
+        "latitude": 20.0097768,
+        "longitude": -99.6998121
+      }
+    }
+  },
+  {
+    "rectangle": {
+      "low": {
+        "latitude": 20.0097768,
+        "longitude": -99.73753178
+      },
+      "high": {
+        "latitude": 20.043628599999998,
+        "longitude": -99.6998121
+      }
+    }
+  }
+]

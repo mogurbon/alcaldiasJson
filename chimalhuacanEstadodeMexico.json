@@ -1,0 +1,110 @@
+[
+  {
+    "rectangle": {
+      "low": {
+        "latitude": 19.3728241,
+        "longitude": -98.9933987
+      },
+      "high": {
+        "latitude": 19.403070766666666,
+        "longitude": -98.96034846666667
+      }
+    }
+  },
+  {
+    "rectangle": {
+      "low": {
+        "latitude": 19.403070766666666,
+        "longitude": -98.9933987
+      },
+      "high": {
+        "latitude": 19.433317433333333,
+        "longitude": -98.96034846666667
+      }
+    }
+  },
+  {
+    "rectangle": {
+      "low": {
+        "latitude": 19.433317433333333,
+        "longitude": -98.9933987
+      },
+      "high": {
+        "latitude": 19.4635641,
+        "longitude": -98.96034846666667
+      }
+    }
+  },
+  {
+    "rectangle": {
+      "low": {
+        "latitude": 19.3728241,
+        "longitude": -98.96034846666667
+      },
+      "high": {
+        "latitude": 19.403070766666666,
+        "longitude": -98.92729823333333
+      }
+    }
+  },
+  {
+    "rectangle": {
+      "low": {
+        "latitude": 19.403070766666666,
+        "longitude": -98.96034846666667
+      },
+      "high": {
+        "latitude": 19.433317433333333,
+        "longitude": -98.92729823333333
+      }
+    }
+  },
+  {
+    "rectangle": {
+      "low": {
+        "latitude": 19.433317433333333,
+        "longitude": -98.96034846666667
+      },
+      "high": {
+        "latitude": 19.4635641,
+        "longitude": -98.92729823333333
+      }
+    }
+  },
+  {
+    "rectangle": {
+      "low": {
+        "latitude": 19.3728241,
+        "longitude": -98.92729823333333
+      },
+      "high": {
+        "latitude": 19.403070766666666,
+        "longitude": -98.894248
+      }
+    }
+  },
+  {
+    "rectangle": {
+      "low": {
+        "latitude": 19.403070766666666,
+        "longitude": -98.92729823333333
+      },
+      "high": {
+        "latitude": 19.433317433333333,
+        "longitude": -98.894248
+      }
+    }
+  },
+  {
+    "rectangle": {
+      "low": {
+        "latitude": 19.433317433333333,
+        "longitude": -98.92729823333333
+      },
+      "high": {
+        "latitude": 19.4635641,
+        "longitude": -98.894248
+      }
+    }
+  }
+]
